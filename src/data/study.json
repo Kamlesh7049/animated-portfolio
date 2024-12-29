@@ -1,0 +1,18 @@
+[
+
+
+    {
+        "id": 1,
+        "degree": "Bachelor of Technology in (Computer Science Engineering)",
+        "institution": "Rajiv Gandhi Proudyogiki Vishwavidyalaya (R.G.P.V)",
+        "startDate": "2018",
+        "endDate": "2022",
+        "location": "Bhopal,Madhyapradesh",
+        "experiences": [
+            "Completed coursework in software development, algorithms, and database management",
+            "Engaged in multiple projects involving full-stack development"
+        ],
+        "imageSrc": "skills/csjmu.png"
+    }
+   
+]

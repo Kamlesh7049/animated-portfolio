@@ -1,0 +1,50 @@
+[
+    {
+      "key": 1,
+      "title": "React E-Commerce",
+      "imageSrc": "/skills/demo 1.png",
+      "description": "This is a project made with complete React js.",
+      "demo": "https://shopping-cart-in-react-rfdm.vercel.app/",
+      "source": "https://github.com/kjha4951/Shopping-cart-in-React.git"
+    },
+    {
+      "key": 2,
+      "title": "Bootstrap",
+      "imageSrc": "/skills/bootstra.png",
+      "description": "This is a project made with complete bootstrap.",
+      "demo": "https://bootstrap-design-psi.vercel.app/",
+      "source": "https://github.com/kjha4951/bootstrap_design/tree/main"
+    },
+    {
+      "key": 3,
+      "title": "Movie E-Commerce", 
+      "imageSrc": "/skills/movie.png",
+      "description": "This is a project made with complete React-redux toolskit",
+      "demo": "https://movie-ecom-redux.vercel.app/",
+      "source": "https://github.com/kjha4951/Movie-ecom-redux.git"
+    },
+    {
+      "key": 4,
+      "title": "Book-store", 
+      "imageSrc": "/skills/book-store.png",
+      "description": "This is a project made with complete react vite , bootstrap ,nodejs ,express and mongodb",
+      "demo": "https://front-bookstore-l7s1.vercel.app/",
+      "source": "https://github.com/kjha4951?tab=stars"
+    },
+    {
+      "key": 5,
+      "title": "Search-filter", 
+      "imageSrc": "/skills/Search.png",
+      "description": "This is a project made with complete react vite for real time search filter",
+      "demo": "https://seach-filter.vercel.app/",
+      "source": "https://github.com/kjha4951/Seach-filter"
+    },
+    {
+      "key": 6,
+      "title": "Resturent", 
+      "imageSrc": "/skills/Resturent.png",
+      "description": "This is a project made with complete react vite and nodejs for real time Resturent",
+      "demo": "https://frontend-resturent.vercel.app/",
+      "source": "https://github.com/kjha4951/backend_resturent/tree/master"
+    }
+  ]

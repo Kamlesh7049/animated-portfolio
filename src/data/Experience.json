@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "role": "Software Engineer ",
+      "organisation": "Tata Elxsi",
+      "startDate": "Mar, 2023",
+      "endDate": "Sep,2023",
+      "location": "Bangalore, India",
+      "experiences": [
+        "Worked on client Project ",
+        "Worked with thired party Tool integration"
+      ],
+      "imageSrc": "company/cloudeq.png"
+    }
+]
+   
